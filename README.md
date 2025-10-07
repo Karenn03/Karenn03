@@ -1,5 +1,8 @@
-<h1 align="center">👩‍💻 Karen | Desarrolladora de software</h1>
-<p align="center"><em>"El aprendizaje es un viaje constante."</em></p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20Karen%20%7C%20Desarrolladora%20de%20software&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=75&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <br>
+  <p align="center"><em>"El aprendizaje es un viaje constante."</em></p>
+</div>
 
 ---
 
@@ -40,18 +43,9 @@ Soy tecnóloga en análisis y desarrollo de software, especializada en crear pro
 
 ## 📊 Estadísticas
 
-<table>
-  <tr>
-    <td align="center" width="55%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Karenn03&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="50%" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Karenn03&theme=material-palenight&hide_border=true" alt="Streak Stats" height="50%" />
-    </td>
-    <td align="left" width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenn03&layout=donut-vertical&theme=material-palenight&count_private=true&include_forks=true&hide_border=true" alt="Most Used Languages" width="88%" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Karenn03&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="172" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Karenn03&theme=material-palenight&hide_border=true" alt="Streak Stats" height="171" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenn03&layout=donut-vertical&theme=material-palenight&count_private=true&include_forks=true&hide_border=true" alt="Most Used Languages" height="227" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karenn03&radius=16&theme=material-palenight&area=true&order=5&hide_border=true" alt="Activity Graph" height="227" />
 
 ---
 
@@ -61,3 +55,7 @@ Soy tecnóloga en análisis y desarrollo de software, especializada en crear pro
   Conéctate en <a href="https://www.linkedin.com/in/karen-sophia-molina">LinkedIn</a> ·  
   Revisa mi <a href="https://www.canva.com/design/DAG0968_GwU/BSbjiNaZzRasPhMdayMm0Q/edit?utm_content=DAG0968_GwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">CV</a>
 </p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
