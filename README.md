@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20Karen%20%7C%20Desarrolladora%20de%20software&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=75&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20Karen%20%7C%20Desarrolladora%20de%20software&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=75&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=9d77bd"  />
   <br>
   <p align="center"><em>"El aprendizaje es un viaje constante."</em></p>
 </div>
