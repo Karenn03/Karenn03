@@ -55,7 +55,3 @@ Soy tecnóloga en análisis y desarrollo de software, especializada en crear pro
   Conéctate en <a href="https://www.linkedin.com/in/karen-sophia-molina">LinkedIn</a> ·  
   Revisa mi <a href="https://www.canva.com/design/DAG0968_GwU/BSbjiNaZzRasPhMdayMm0Q/edit?utm_content=DAG0968_GwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">CV</a>
 </p>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
