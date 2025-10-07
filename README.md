@@ -43,9 +43,9 @@ Soy tecnóloga en análisis y desarrollo de software, especializada en crear pro
 
 ## 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karenn03&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="172" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Karenn03&theme=material-palenight&hide_border=true" alt="Streak Stats" height="171" />
+<img src="https://github-readme-stats.vercel.app/api?username=Karenn03&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Karenn03&theme=material-palenight&hide_border=true" alt="Streak Stats" height="169" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenn03&layout=donut-vertical&theme=material-palenight&count_private=true&include_forks=true&hide_border=true" alt="Most Used Languages" height="227" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karenn03&radius=16&theme=material-palenight&area=true&order=5&hide_border=true" alt="Activity Graph" height="227" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenn03&layout=donut-vertical&theme=material-palenight&count_private=true&include_forks=true&hide_border=true" alt="Most Used Languages" height="225" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karenn03&radius=16&theme=material-palenight&area=true&order=5&hide_border=true" alt="Activity Graph" height="225" />
 
 ---
 
